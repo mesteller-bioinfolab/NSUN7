@@ -10,4 +10,7 @@ Interactome folder
 
 The instructions to run each script are included in the R code.
 
+Total Proteome folder
 
+-Run the script called "TotalProteomeAnalysisSNU.R" to execute the analysis fo the total proteome. The script needs a function called "REMOVALcontaminantsPEAKS.R" which is also included in the github.
+ 
